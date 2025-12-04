@@ -6,6 +6,11 @@
 Welcome to EMBO's Documentation!
 ==================
 
+.. image:: _static/embo_framework.png
+   :alt: EMBO Overview
+   :align: center
+   :width: 80%
+
 .. include:: ../README.md
    :parser: myst_parser.sphinx_
 
