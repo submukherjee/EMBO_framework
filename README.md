@@ -53,7 +53,8 @@ All outputs—including regression coefficients, optimized setpoints, predicted 
 
 ## **Overview Illustration**
 
-![Overview](embo_framework.png)
+![EMBO Overview](docs/_static/embo_framework.png)
+
 
 ---
 
@@ -86,7 +87,7 @@ This will :
 - Optimize flowrates using the tariff in `tariff_files/`   
 - Save all results in `results/` folder
 
- User manual (comming soon) can be found in the [EMBO Documentation](https://embo.readthedocs.io/en/latest/) pages. 
+ User manual can be found in the [EMBO Documentation](https://embo-framework.readthedocs.io/en/latest/) pages. 
  
  ## **Authors** 
  - Subrata Mukherjee
